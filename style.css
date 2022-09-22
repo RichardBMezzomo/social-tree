@@ -83,7 +83,7 @@ ul {
 
 .container ul li a:hover {
   color:  hsl(270, 62%, 65%);
-  border: 3px solid hsl(270, 62%, 65%);
+  border: 3px solid hsl(270, 59%, 40%);
 }
 
 .social-medias {
